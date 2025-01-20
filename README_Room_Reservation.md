@@ -7,7 +7,6 @@ Room Reservation System is a **WPF application** built with **C# and the MVVM ar
 - **Frontend:** WPF, XAML
 - **Backend:** C# (.NET 6/7)
 - **Architecture:** MVVM (Model-View-ViewModel)
-- **Database:** SQLite/MSSQL
 - **IDE:** Visual Studio
 
 ## 🚀 Features
@@ -18,8 +17,17 @@ Room Reservation System is a **WPF application** built with **C# and the MVVM ar
 - **User-Friendly UI** – XAML-based modern interface.
 
 ## 📷 Screenshots
-![Add Reservation] (main.png)
-![Make Reservation] (mkreserv.png)
-![Edit Reservation Details] (editreserv.png)
-![Display message status: Saved Successfully!] (saved.png)
-![View Reservations and Add new reservations] (viewandadd.png)
+1. **Add Reservation**  
+   ![Add Reservation](main.png)
+
+2. **Make Reservation**  
+   ![Make Reservation](mkreserv.png)
+
+3. **Edit Reservation Details**  
+   ![Edit Reservation Details](editreserv.png)
+
+4. **Display Message Status: Saved Successfully!**  
+   ![Display message status: Saved Successfully!](saved.png)
+
+5. **View Reservations and Add New Reservations**  
+   ![View Reservations and Add New Reservations](viewandadd.png)
